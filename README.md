@@ -1,4 +1,4 @@
-# Web Scraping Practice
+# Web Scraping
 
 1. Reviews of Amazon Alexa
 2. Top 1000 IMDB movies
